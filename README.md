@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://winyh.github.io/zswui/">
-    <img width="200" src="https://github.com/winyh/zswui/blob/master/public/snowman.svg">
+  <a href="https://winyh.github.io/zswui-v/">
+    <img width="200" src="https://github.com/winyh/zswui-v/blob/master/public/snowman.svg">
   </a>
 </p>
 
